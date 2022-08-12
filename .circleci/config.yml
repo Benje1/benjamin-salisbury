@@ -30,12 +30,6 @@ workflows:
   version: 2.1
   build:
     jobs:
-      - test:
-        filters:
-          branches:
-            only:
-              - main
-              - develop
       - deploy:
           requires:
             - test
