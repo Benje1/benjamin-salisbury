@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (<>
   <h1>Under Construction</h1>
-  <p>To be added later</p>
+  <p>Benjamin Salisbury</p>
   <a href="https://github.com/Benje1?tab=repositories">My github repositories</a>
   </>);
 }
