@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/benjamin-salisbury/static/css/main.073c9b0a.css",
-    "main.js": "/benjamin-salisbury/static/js/main.29837974.js",
+    "main.js": "/benjamin-salisbury/static/js/main.fff23fba.js",
     "static/js/787.a71561b8.chunk.js": "/benjamin-salisbury/static/js/787.a71561b8.chunk.js",
     "index.html": "/benjamin-salisbury/index.html",
     "main.073c9b0a.css.map": "/benjamin-salisbury/static/css/main.073c9b0a.css.map",
-    "main.29837974.js.map": "/benjamin-salisbury/static/js/main.29837974.js.map",
+    "main.fff23fba.js.map": "/benjamin-salisbury/static/js/main.fff23fba.js.map",
     "787.a71561b8.chunk.js.map": "/benjamin-salisbury/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.29837974.js"
+    "static/js/main.fff23fba.js"
   ]
 }
